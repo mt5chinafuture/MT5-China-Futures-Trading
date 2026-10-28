@@ -36,12 +36,12 @@
 
 打开MT5的数据文件夹并复制该目录路径。
 
-![众胜MT5期货软件安装完成](https://www.wewin28.com/image/mt5-china-futures-data-folder.png)
-
+![](https://www.wewin28.com/image/mt5-china-futures-data-folder.png)
+![](https://www.wewin28.com/image/mt5-china-futures-data-folder-path.png)
 
 把复制的MT5数据文件夹目录路径粘贴到安装界面。
 
-![众胜MT5期货软件安装完成](https://www.wewin28.com/image/mt5-china-futures-install-folder.png)
+![](https://www.wewin28.com/image/mt5-china-futures-install-folder.png)
 
 安装成功完成。
 
@@ -49,7 +49,11 @@
 
 然后重启MT5。
 
+![](https://www.wewin28.com/image/mt5-china-futures-tool-option.png)
+
 勾选“允许DLL导入”。
+
+![](https://www.wewin28.com/image/mt5-china-futures-tool-option-ea.png)
 
 #### 步骤六：启动众胜MT5期货服务
 
@@ -59,6 +63,10 @@
 
 #### 步骤七：完成安装
 
-再次重启MT5，看到每个服务都成功启动（显示灰色三角形），安装完成。
+再次重启MT5，看到每个服务都成功启动（显示灰色三角形）
+
+![](https://www.wewin28.com/image/mt5-china-futures-service-ok.png)
+
 
 > **安装完成：** 至此，众胜MT5期货已成功安装。现在可以开始配置期货账号，进行实盘或模拟交易了。
+
